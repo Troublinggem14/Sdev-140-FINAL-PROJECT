@@ -1,0 +1,3 @@
+Hello professor, or anyone else seeing this, 
+
+I haven't really used git much before but I'm sure I can get the hang of it. So far my project is still only in its main thinking faze about what I want to actually have involved in it, especially now learning how to create GUIs with tkinter. Obviously I would have more if I hadn't just started learning how tkinter works, but I think I'm going to try and at least get a basic window opening for my To-Do-List up and running either this weekend or some time next week. I believe that is all the news I have to share for now, have a good day!
